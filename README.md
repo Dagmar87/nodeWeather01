@@ -1,5 +1,5 @@
 # nodeWeather01
-Crie um aplicativo de clima Node.js 
+Criação de um aplicativo de clima Node.js 
 
 ## Referências
 
