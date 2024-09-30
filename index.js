@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 const BASE_PATH = "http://api.openweathermap.org/data/2.5/weather";
-const API_KEY = "376cd2c5f288c97105013deec7c63052";
+const API_KEY = "<sua chave aqui>";
 
 const prompt = (message, callback) => {
 	const stdin = process.stdin;
