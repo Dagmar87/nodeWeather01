@@ -16,7 +16,7 @@ const prompt = (message, callback) => {
 };
 
 prompt("Insira um local ou um código postal: ", function (location) {
-	if(!location){
+	if (!location) {
 		console.log("Por favor, tente novamente");
 		process.exit();
 	}
